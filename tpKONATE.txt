@@ -1,7 +1,7 @@
 finaliser le tp
 
 bonjour cher camarade AWS Groupe5
-
+ayez des gens correct
 TP: IDS/IPS
 
 nous allons utiliser un ips qui peut etre configurer comme un ids on va le faire dans un envirnnement sur SNORT
