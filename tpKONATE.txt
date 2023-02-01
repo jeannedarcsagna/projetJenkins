@@ -1,0 +1,37 @@
+finaliser le tp
+
+
+TP: IDS/IPS
+
+nous allons utiliser un ips qui peut etre configurer comme un ids on va le faire dans un envirnnement sur SNORT
+télécharger SNORT
+les problèems que nous allons rencontrer
+--compatibilité
+  
+IDS constituer de sonde ,on les envoi sur des stations de traitement==sonde à installer
+il me une faut une console (interface) avec php ou apache
+la base de donné a installer == on a mysql ou barnyard
+la conversion de la base de donné
+
+Installer SNORT en mode IPS
+prérequis
+ 1)vérifier la version de snort est compatible avec quel version de notre système dexploitation linux ou windows
+ 2) les dépendances de snort
+     base de donnée(mysql) il est utilisé avec un outil appelé Bargnard
+     console web (apache) cette interface web peut etre fait avec apache ou p
+ il faut montrer que ce la marche en faissant appele a une détection et voir on peut détecter cette intruison
+Partie Détection
+
+essayant de faire la dissurpation d'identite
+ou entrer dans la base de donnée
+lire des donnée ou lancer des applications que vous ne pouve
+accès à un certains dossiers
+   
+je bloque l'action
+bloquer le processus du listing de répertoi
+bloquer notifer et détecter
+
+     
+détecter les intruisons
+comment snort permet de détecter lles intruison
+comment bloquer les tentatives d'intruisons
