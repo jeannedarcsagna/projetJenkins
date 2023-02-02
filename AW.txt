@@ -1,0 +1,27 @@
+Question
+1))les antennes et les ondes
+2))en fonction aténuation de la distance parcouru
+    trajet multiple evanouissement signal
+en zone rural londe se propage
+en urbaine londe s'affaibli à acuse de la présence des obstacles 
+
+4))Les caractéristiques principales d'une antenne sont :
+les fréquences d'utilisation ;
+le diagramme de rayonnement ;
+l'impédance d'antenne ;
+gain
+directivité
+la polarisation ;
+le rendement ;
+la puissance maximale tolérée en émission ;
+l'encombrement mécanique
+5))
+2G==fréquence entre G900 et G1800
+3G ==fonctionne dans la bande de fréquence U900Mhz et 2100Mhz
+4G==L800;L1800;nnL2100,L2600
+
+cour5:Bilan de liaison
+les composants d'un site radio
+-antenne
+-équipement radio
+-
